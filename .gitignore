@@ -1,1 +1,7 @@
 db.sqlite3
+.idea
+.gitignore
+.idea/
+manage.py
+*.pyc
+tutorial/quickstart/migrations/__pycache__/
